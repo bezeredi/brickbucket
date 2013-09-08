@@ -1,0 +1,10 @@
+#! Files to ignore
+*.out
+*.exe
+*.java
+*.class
+*.o
+*.so
+*.a
+*.dll
+
