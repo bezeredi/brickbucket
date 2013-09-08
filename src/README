@@ -1,0 +1,9 @@
+BrickBucket Source
+==================
+
+This is the location of the BrickBucket source files. The directories are in
+the following manner:
+
+	* Source code for binary executables	|	bin/
+	* Source code for needed libraries		|	lib/
+
