@@ -16,4 +16,5 @@ Other libraries with source implementations in this folder are:
 
 	* MiniXML 2.7			|		mxml-2.7/
 	* SQLite 3.7.16		|		sqlite-3.7.16/
+	* libxml2				|		libxml2/
 
