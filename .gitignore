@@ -10,4 +10,7 @@
 *.lxf
 *.lxfml
 *.png
+src/lib/gtk+-3.8.4
+src/lib/mxml-2.7
+src/lib/sqlite-3.7.16
 
